@@ -1,0 +1,43 @@
+{
+  "city_name": "Metropolis Central",
+  "data_status": "Demonstration Telemetry Stream (Labelled Demo Data)",
+  "disclaimer": "Metrics represent simulated open-data sensor streams for hackathon demonstration. Live municipal APIs can be attached via config.",
+  "weather": {
+    "temperature": "22°C",
+    "condition": "Partly Cloudy",
+    "humidity": "64%",
+    "wind": "12 km/h NW",
+    "uv_index": "Moderate (4)",
+    "alert": "Mild evening breeze expected after 18:00. Optimal conditions for outdoor exploration.",
+    "icon": "cloud-sun"
+  },
+  "air_quality": {
+    "aqi": 42,
+    "status": "Good",
+    "description": "Air quality is satisfactory and poses little or no health risk.",
+    "pm25": "9.8 µg/m³"
+  },
+  "traffic_summary": {
+    "overall_status": "Moderate Flow",
+    "congestion_level": "38%",
+    "peak_advisory": "Downtown Central Plaza experiencing typical rush hour flow. Metro lines running on schedule.",
+    "zones": [
+      { "name": "Downtown Central", "status": "Busy", "delay_min": 6, "color": "amber" },
+      { "name": "Waterfront Promenade", "status": "Clear Flow", "delay_min": 1, "color": "emerald" },
+      { "name": "Chinatown & Spice Bazaar", "status": "Pedestrian Only", "delay_min": 0, "color": "teal" },
+      { "name": "Historic Old Town", "status": "Light Traffic", "delay_min": 2, "color": "emerald" }
+    ]
+  },
+  "transit_network": {
+    "metro_uptime": "99.4%",
+    "active_lines": 8,
+    "busiest_hub": "Central Station Terminal",
+    "bike_stations_available": 142
+  },
+  "city_vitality_index": {
+    "walkability_score": 92,
+    "green_space_ratio": "28%",
+    "safety_patrol_density": "High (Zone 1 - 4)",
+    "active_places_count": 12
+  }
+}

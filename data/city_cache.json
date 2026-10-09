@@ -1,0 +1,2534 @@
+{
+  "pune": {
+    "city_name": "Pune",
+    "display_name": "Pune, Pune City Subdistrict, Pune, Maharashtra, 411001, India",
+    "country": "India",
+    "country_code": "in",
+    "lat": 18.5213738,
+    "lon": 73.8545071,
+    "overview": {
+      "title": "Pune",
+      "description": "City in Maharashtra, India",
+      "extract": "Pune, previously spelled in English as Poona, is a city in the state of Maharashtra in the Deccan Plateau in Western India. It is the administrative headquarters of the Pune district, and of Pune division. In terms of the total amount of land under its jurisdiction, Pune is the largest city in Maharashtra by area, with a geographical area of 516.18km2, though by population it comes in a distant second to Mumbai. The city of Pune is part of Pune Metropolitan Region, which according to the 2011 Census of India, has 7.2 million residents, making it the seventh-most populous metropolitan area in India. Pune is one of the largest IT hubs in India. It is also one of the most important automobile and manufacturing hubs of India. Pune is often referred to as the \"Oxford of the East\" because of its educational institutions. It has been ranked \"the most liveable city in India\" several times.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Pune_West_skyline_-_March_2017.jpg/3840px-Pune_West_skyline_-_March_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page_url": "https://en.wikipedia.org/wiki/Pune",
+      "data_source": "Wikipedia Official Free REST API"
+    },
+    "weather": {
+      "temperature": "33°C",
+      "condition": "Mainly Clear",
+      "apparent_temperature": "34°C",
+      "humidity": "33%",
+      "wind": "10.1 km/h",
+      "alert": "Mostly sunny with light passing clouds.",
+      "is_live": true,
+      "data_source": "Open-Meteo Live Free Meteorological API (No Key Required)",
+      "timestamp": "11:48 AM"
+    },
+    "emergency": {
+      "police": "100",
+      "ambulance": "108",
+      "fire": "101",
+      "unified": "112",
+      "country": "India"
+    },
+    "places": [
+      {
+        "id": "savitribai-phule-pune-university",
+        "name": "Savitribai Phule Pune University",
+        "tagline": "Renowned landmark in Pune",
+        "category": "tourist",
+        "category_label": "Tourist Attraction",
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/f6/Savitribai_Phule_Pune_University_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "₹0 - ₹200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Savitribai Phule Pune University, Pune",
+        "distance_km": 4.7,
+        "coordinates": [
+          18.5523,
+          73.8246
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "Savitribai Phule Pune University (SPPU), formerly the University of Pune, is a public state university located in the city of Pune, India. It was established in 1949, and is spread over a 411 acres (1.66 km2) campus in the neighbourhood of Ganeshkhind. The university houses 46 ac...",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Savitribai Phule Pune University Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "raireshwar",
+        "name": "Raireshwar",
+        "tagline": "Renowned landmark in Pune",
+        "category": "historical",
+        "category_label": "Heritage & History",
+        "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "₹0 - ₹200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Raireshwar, Pune",
+        "distance_km": 54.0,
+        "coordinates": [
+          18.05,
+          73.73333333
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "Raireshwar Fort is in Bhor taluka near Pune, India, 82 km away. It is between various hills and forts, such as Kenjalgad. In the Maratha Empire age, it was a significant fort.",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Raireshwar Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "khadakwasla-dam",
+        "name": "Khadakwasla Dam",
+        "tagline": "Renowned landmark in Pune",
+        "category": "parks",
+        "category_label": "Parks & Nature",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Khadakwasla_Dam_image.JPG/330px-Khadakwasla_Dam_image.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "₹0 - ₹200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Khadakwasla Dam, Pune",
+        "distance_km": 33.9,
+        "coordinates": [
+          18.45305556,
+          73.54111111
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "Khadakwasla Dam is a dam on the Mutha River 21 km (13 mi) from the centre of the city of Pune in Maharashtra, India. The dam created a reservoir known as Khadakwasla Lake which is the main source of water for Pune and its suburbs.",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Khadakwasla Dam Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "dagadusheth-halwai-ganapati-temple",
+        "name": "Dagadusheth Halwai Ganapati Temple",
+        "tagline": "Renowned landmark in Pune",
+        "category": "historical",
+        "category_label": "Heritage & History",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Dagdusheth_Ganpati_Temple_Decorated_during_Ganesh_Chaturti_September_2012_%281%29.JPG/330px-Dagdusheth_Ganpati_Temple_Decorated_during_Ganesh_Chaturti_September_2012_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "₹0 - ₹200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Dagadusheth Halwai Ganapati Temple, Pune",
+        "distance_km": 0.6,
+        "coordinates": [
+          18.51638889,
+          73.85611111
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "The Dagadusheth Halwai Ganapati Temple is a Hindu temple dedicated to the Hindu god Ganesha (Ganapati) in the city of Pune, India. The temple is visited by over one hundred thousand devotees every year. A large number of devotees visit the temple during the annual ten-day public ...",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Dagadusheth Halwai Ganapati Temple Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "pataleshwar-caves",
+        "name": "Pataleshwar Caves",
+        "tagline": "Renowned landmark in Pune",
+        "category": "historical",
+        "category_label": "Heritage & History",
+        "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "₹0 - ₹200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Pataleshwar Caves, Pune",
+        "distance_km": 0.0,
+        "coordinates": [
+          18.5213738,
+          73.8545071
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "8th-century rock-cut Hindu temple from the Rashtrakuta period located in Pune, Maharashtra, India. Dedicated to Shiva, it was a monumental monolithic",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Pataleshwar Caves Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "rice-bowl-the-perfect-chinese",
+        "name": "Rice Bowl : The Perfect Chinese",
+        "tagline": "Local dining and culinary destination in Pune",
+        "category": "food",
+        "category_label": "Local Food Spots",
+        "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.6,
+        "reviews_count": 920,
+        "price_tier": "$$",
+        "cost_estimate": "₹200 - ₹600 per person (Estimated Market Range)",
+        "cost_is_estimated": true,
+        "budget_numeric": 2,
+        "location": "Rice Bowl : The Perfect Chinese,  SH58",
+        "distance_km": 18.6,
+        "coordinates": [
+          18.6661393,
+          73.9424868
+        ],
+        "opening_hours": "11:30 AM - 11:00 PM",
+        "accessibility": "Ground Floor Access • Seating Available",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.5,
+        "safety_score": 9.0,
+        "safety_advisory": "Standard urban hospitality district",
+        "interests": [
+          "Culinary & Street Food",
+          "Nightlife & Vibes"
+        ],
+        "description": "Popular eating spot serving local specialties and regional delicacies in Pune.",
+        "highlights": [
+          "Fresh Regional Cuisine",
+          "Casual Dining",
+          "Takeaway Available"
+        ],
+        "best_time_to_visit": "01:00 PM (Lunch) or 08:00 PM (Dinner)",
+        "metro_station": "Pune Central Transit Link",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Real Amenity Catalog"
+      },
+      {
+        "id": "the-thali-bistro",
+        "name": "The Thali Bistro",
+        "tagline": "Local dining and culinary destination in Pune",
+        "category": "food",
+        "category_label": "Local Food Spots",
+        "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.6,
+        "reviews_count": 920,
+        "price_tier": "$$",
+        "cost_estimate": "₹200 - ₹600 per person (Estimated Market Range)",
+        "cost_is_estimated": true,
+        "budget_numeric": 2,
+        "location": "The Thali Bistro,  Porwal Road",
+        "distance_km": 11.6,
+        "coordinates": [
+          18.6103849,
+          73.9115553
+        ],
+        "opening_hours": "11:30 AM - 11:00 PM",
+        "accessibility": "Ground Floor Access • Seating Available",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.5,
+        "safety_score": 9.0,
+        "safety_advisory": "Standard urban hospitality district",
+        "interests": [
+          "Culinary & Street Food",
+          "Nightlife & Vibes"
+        ],
+        "description": "Popular eating spot serving local specialties and regional delicacies in Pune.",
+        "highlights": [
+          "Fresh Regional Cuisine",
+          "Casual Dining",
+          "Takeaway Available"
+        ],
+        "best_time_to_visit": "01:00 PM (Lunch) or 08:00 PM (Dinner)",
+        "metro_station": "Pune Central Transit Link",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Real Amenity Catalog"
+      },
+      {
+        "id": "happy-momos",
+        "name": "Happy Momos",
+        "tagline": "Local dining and culinary destination in Pune",
+        "category": "food",
+        "category_label": "Local Food Spots",
+        "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.6,
+        "reviews_count": 920,
+        "price_tier": "$$",
+        "cost_estimate": "₹200 - ₹600 per person (Estimated Market Range)",
+        "cost_is_estimated": true,
+        "budget_numeric": 2,
+        "location": "Happy Momos,  Porwal Road",
+        "distance_km": 11.5,
+        "coordinates": [
+          18.6098258,
+          73.9113762
+        ],
+        "opening_hours": "11:30 AM - 11:00 PM",
+        "accessibility": "Ground Floor Access • Seating Available",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.5,
+        "safety_score": 9.0,
+        "safety_advisory": "Standard urban hospitality district",
+        "interests": [
+          "Culinary & Street Food",
+          "Nightlife & Vibes"
+        ],
+        "description": "Popular eating spot serving local specialties and regional delicacies in Pune.",
+        "highlights": [
+          "Fresh Regional Cuisine",
+          "Casual Dining",
+          "Takeaway Available"
+        ],
+        "best_time_to_visit": "01:00 PM (Lunch) or 08:00 PM (Dinner)",
+        "metro_station": "Pune Central Transit Link",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Real Amenity Catalog"
+      },
+      {
+        "id": "nyati-evita-park",
+        "name": "Nyati Evita Park",
+        "tagline": "Scenic recreational green space in Pune",
+        "category": "parks",
+        "category_label": "Parks & Recreational",
+        "image": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.7,
+        "reviews_count": 1450,
+        "price_tier": "$",
+        "cost_estimate": "Free Admission (Public Park)",
+        "cost_is_estimated": false,
+        "budget_numeric": 1,
+        "location": "Nyati Evita Park,  Ward 1",
+        "distance_km": 11.1,
+        "coordinates": [
+          18.6080156,
+          73.9073664
+        ],
+        "opening_hours": "06:00 AM - 08:30 PM",
+        "accessibility": "Barrier-Free Walking Paths • Paved Trails",
+        "accessibility_score": 5,
+        "cleanliness_rating": 4.7,
+        "safety_score": 9.5,
+        "safety_advisory": "Daylight hours recommended; public walking trails",
+        "interests": [
+          "Nature & Relaxation",
+          "Budget Travel",
+          "Photography & Scenic"
+        ],
+        "description": "Public park offering lush open spaces, walking trails, and fresh air away from traffic in Pune.",
+        "highlights": [
+          "Jogging & Walking Track",
+          "Lush Trees",
+          "Family Friendly",
+          "Zero Admission Fee"
+        ],
+        "best_time_to_visit": "06:30 AM - 09:30 AM (Morning Walks)",
+        "metro_station": "Near Nyati Evita Park Bus Stop",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Public Parks"
+      },
+      {
+        "id": "open-garden",
+        "name": "Open garden",
+        "tagline": "Scenic recreational green space in Pune",
+        "category": "parks",
+        "category_label": "Parks & Recreational",
+        "image": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.7,
+        "reviews_count": 1450,
+        "price_tier": "$",
+        "cost_estimate": "Free Admission (Public Park)",
+        "cost_is_estimated": false,
+        "budget_numeric": 1,
+        "location": "Open garden,  near martheophilus school",
+        "distance_km": 10.4,
+        "coordinates": [
+          18.6015032,
+          73.9049198
+        ],
+        "opening_hours": "06:00 AM - 08:30 PM",
+        "accessibility": "Barrier-Free Walking Paths • Paved Trails",
+        "accessibility_score": 5,
+        "cleanliness_rating": 4.7,
+        "safety_score": 9.5,
+        "safety_advisory": "Daylight hours recommended; public walking trails",
+        "interests": [
+          "Nature & Relaxation",
+          "Budget Travel",
+          "Photography & Scenic"
+        ],
+        "description": "Public park offering lush open spaces, walking trails, and fresh air away from traffic in Pune.",
+        "highlights": [
+          "Jogging & Walking Track",
+          "Lush Trees",
+          "Family Friendly",
+          "Zero Admission Fee"
+        ],
+        "best_time_to_visit": "06:30 AM - 09:30 AM (Morning Walks)",
+        "metro_station": "Near Open garden Bus Stop",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Public Parks"
+      },
+      {
+        "id": "hotel5",
+        "name": "hotel5",
+        "tagline": "Hospitality and accommodation stay in Pune",
+        "category": "hotels",
+        "category_label": "Hotels & Stays",
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.5,
+        "reviews_count": 680,
+        "price_tier": "$$$",
+        "cost_estimate": "₹2,500 - ₹6,000 / night (Estimated Room Rate)",
+        "cost_is_estimated": true,
+        "budget_numeric": 3,
+        "location": "hotel5,  Porwal Road",
+        "distance_km": 11.4,
+        "coordinates": [
+          18.6083116,
+          73.9112408
+        ],
+        "opening_hours": "24/7 Front Desk",
+        "accessibility": "Elevator Access • Accessible Lobby",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.8,
+        "safety_score": 9.4,
+        "safety_advisory": "Commercial lodging with secure reception",
+        "interests": [
+          "Nightlife & Vibes",
+          "Culinary & Street Food"
+        ],
+        "description": "Comfortable hotel accommodation offering modern amenities and convenient city transit connections.",
+        "highlights": [
+          "Wi-Fi Included",
+          "24/7 Check-In",
+          "Central City Location"
+        ],
+        "best_time_to_visit": "Check-in 02:00 PM",
+        "metro_station": "Pune Station",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Lodging Registry"
+      },
+      {
+        "id": "hotel-prathamjay",
+        "name": "Hotel prathamjay",
+        "tagline": "Hospitality and accommodation stay in Pune",
+        "category": "hotels",
+        "category_label": "Hotels & Stays",
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.5,
+        "reviews_count": 680,
+        "price_tier": "$$$",
+        "cost_estimate": "₹2,500 - ₹6,000 / night (Estimated Room Rate)",
+        "cost_is_estimated": true,
+        "budget_numeric": 3,
+        "location": "Hotel prathamjay,  Sant Dyaneshwar Marg",
+        "distance_km": 15.5,
+        "coordinates": [
+          18.6579324,
+          73.8854431
+        ],
+        "opening_hours": "24/7 Front Desk",
+        "accessibility": "Elevator Access • Accessible Lobby",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.8,
+        "safety_score": 9.4,
+        "safety_advisory": "Commercial lodging with secure reception",
+        "interests": [
+          "Nightlife & Vibes",
+          "Culinary & Street Food"
+        ],
+        "description": "Comfortable hotel accommodation offering modern amenities and convenient city transit connections.",
+        "highlights": [
+          "Wi-Fi Included",
+          "24/7 Check-In",
+          "Central City Location"
+        ],
+        "best_time_to_visit": "Check-in 02:00 PM",
+        "metro_station": "Pune Station",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Lodging Registry"
+      }
+    ],
+    "last_updated": "2026-10-09 11:49:04",
+    "data_sources": [
+      "OpenStreetMap Nominatim (Geocoding & POIs)",
+      "Open-Meteo (Live Real-Time Weather)",
+      "Wikipedia REST API (Overview, History, Landmarks)"
+    ]
+  },
+  "mumbai": {
+    "city_name": "Mumbai",
+    "display_name": "Mumbai, Mumbai Suburban District, Maharashtra, 400051, India",
+    "country": "India",
+    "country_code": "in",
+    "lat": 19.054999,
+    "lon": 72.8692035,
+    "overview": {
+      "title": "Mumbai",
+      "description": "Capital of Maharashtra, India",
+      "extract": "Mumbai, also known as Bombay, is the capital city of the Indian state of Maharashtra and the financial capital of India. Located on the Konkan coast along the west coast of India, it has a deep natural harbour. As per the 2011 Census of India, it is the most populous city proper in India, with a population of almost 12.5 million, while the Mumbai Metropolitan Region, which is among the most populous metropolitan areas in the world, has a population of over 20 million. The city forms part of the Mumbai City and Mumbai Suburban districts and is administered by the Brihanmumbai Municipal Corporation, which was established in 1888.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "page_url": "https://en.wikipedia.org/wiki/Mumbai",
+      "data_source": "Wikipedia Official Free REST API"
+    },
+    "weather": {
+      "temperature": "36°C",
+      "condition": "Clear Sky",
+      "apparent_temperature": "40°C",
+      "humidity": "32%",
+      "wind": "4.1 km/h",
+      "alert": "Optimal clear atmospheric conditions. Excellent for sightseeing.",
+      "is_live": true,
+      "data_source": "Open-Meteo Live Free Meteorological API (No Key Required)",
+      "timestamp": "11:49 AM"
+    },
+    "emergency": {
+      "police": "100",
+      "ambulance": "108",
+      "fire": "101",
+      "unified": "112",
+      "country": "India"
+    },
+    "places": [
+      {
+        "id": "chor-bazaar",
+        "name": "Chor Bazaar",
+        "tagline": "Renowned landmark in Mumbai",
+        "category": "tourist",
+        "category_label": "Tourist Attraction",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Bazaarchitecture5_%284060282163%29.jpg/330px-Bazaarchitecture5_%284060282163%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "₹0 - ₹200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Chor Bazaar, Mumbai",
+        "distance_km": 11.4,
+        "coordinates": [
+          18.960321,
+          72.827176
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "Chor Bazaar is one of the largest flea markets in India, located on Mutton Street, near Bhendi Bazaar in Grant Road, South Mumbai. The area is one of the tourist attractions of Mumbai. The word \"chor\" means 'thief' in Marathi, Gujarati and Hindi. According to popular legend, if y...",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Chor Bazaar Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "gateway-of-india",
+        "name": "Gateway of India",
+        "tagline": "Renowned landmark in Mumbai",
+        "category": "tourist",
+        "category_label": "Tourist Attraction",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Mumbai_03-2016_30_Gateway_of_India.jpg/330px-Mumbai_03-2016_30_Gateway_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "₹0 - ₹200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Gateway of India, Mumbai",
+        "distance_km": 15.2,
+        "coordinates": [
+          18.92198263,
+          72.83465811
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "The Gateway of India is an arch-monument, completed in 1924, on the waterfront of Mumbai, Maharashtra, India. It was erected to commemorate the landing of King George V of the United Kingdom for his coronation as the Emperor of India in December 1911 at Strand Road near Wellingto...",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Gateway of India Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "marine-drive",
+        "name": "Marine Drive",
+        "tagline": "Renowned landmark in Mumbai",
+        "category": "tourist",
+        "category_label": "Tourist Attraction",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mumbai_03-2016_27_skyline_at_Marine_Drive.jpg/330px-Mumbai_03-2016_27_skyline_at_Marine_Drive.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "₹0 - ₹200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Marine Drive, Mumbai",
+        "distance_km": 13.3,
+        "coordinates": [
+          18.944,
+          72.823
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "Marine Drive, often referred to as the Queen's Necklace, is a 3-kilometre-long promenade along the Netaji Subhash Chandra Bose Road in Mumbai (Bombay), India. The road and promenade were constructed by Pallonji Mistry in 1940. It is a banana-shaped, six-lane concrete road along t...",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Marine Drive Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "asiatic-society-of-mumbai-town-hall",
+        "name": "Asiatic Society of Mumbai Town Hall",
+        "tagline": "Renowned landmark in Mumbai",
+        "category": "historical",
+        "category_label": "Heritage & History",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Mumbai_03-2016_70_Asiatic_Society_Library.jpg/330px-Mumbai_03-2016_70_Asiatic_Society_Library.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "₹0 - ₹200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Asiatic Society of Mumbai Town Hall, Mumbai",
+        "distance_km": 0.0,
+        "coordinates": [
+          19.054999,
+          72.8692035
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "The Asiatic Society of Mumbai Town Hall or Town Hall Mumbai is a neoclassical building located in the Fort locality of South Mumbai. It houses The Asiatic Society of Mumbai, State Central Library and a museum, the head office of the Directorate of Libraries Maharashtra State, Mah...",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Asiatic Society of Mumbai Town Hall Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "mumba-devi-temple",
+        "name": "Mumba Devi Temple",
+        "tagline": "Renowned landmark in Mumbai",
+        "category": "historical",
+        "category_label": "Heritage & History",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Mumbadevi_temple.jpg/330px-Mumbadevi_temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "₹0 - ₹200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Mumba Devi Temple, Mumbai",
+        "distance_km": 12.4,
+        "coordinates": [
+          18.95,
+          72.83
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "Mumba Devi Temple is a Hindu temple in Mumbai, Maharashtra, India, dedicated to the goddess Mumbā, the local incarnation of the Parvati. Mumba Devi is the goddess of the city of Mumbai. The name Mumbai is derived from Mumba Devi.",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Mumba Devi Temple Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "butterfly-high",
+        "name": "Butterfly High",
+        "tagline": "Local dining and culinary destination in Mumbai",
+        "category": "food",
+        "category_label": "Local Food Spots",
+        "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.6,
+        "reviews_count": 920,
+        "price_tier": "$$",
+        "cost_estimate": "₹200 - ₹600 per person (Estimated Market Range)",
+        "cost_is_estimated": true,
+        "budget_numeric": 2,
+        "location": "Butterfly High,  Avenue 3",
+        "distance_km": 0.6,
+        "coordinates": [
+          19.0592821,
+          72.8650856
+        ],
+        "opening_hours": "11:30 AM - 11:00 PM",
+        "accessibility": "Ground Floor Access • Seating Available",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.5,
+        "safety_score": 9.0,
+        "safety_advisory": "Standard urban hospitality district",
+        "interests": [
+          "Culinary & Street Food",
+          "Nightlife & Vibes"
+        ],
+        "description": "Popular eating spot serving local specialties and regional delicacies in Mumbai.",
+        "highlights": [
+          "Fresh Regional Cuisine",
+          "Casual Dining",
+          "Takeaway Available"
+        ],
+        "best_time_to_visit": "01:00 PM (Lunch) or 08:00 PM (Dinner)",
+        "metro_station": "Mumbai Central Transit Link",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Real Amenity Catalog"
+      },
+      {
+        "id": "o-pedro",
+        "name": "O Pedro",
+        "tagline": "Local dining and culinary destination in Mumbai",
+        "category": "food",
+        "category_label": "Local Food Spots",
+        "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.6,
+        "reviews_count": 920,
+        "price_tier": "$$",
+        "cost_estimate": "₹200 - ₹600 per person (Estimated Market Range)",
+        "cost_is_estimated": true,
+        "budget_numeric": 2,
+        "location": "O Pedro,  Avenue 3",
+        "distance_km": 0.7,
+        "coordinates": [
+          19.059327,
+          72.8650376
+        ],
+        "opening_hours": "11:30 AM - 11:00 PM",
+        "accessibility": "Ground Floor Access • Seating Available",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.5,
+        "safety_score": 9.0,
+        "safety_advisory": "Standard urban hospitality district",
+        "interests": [
+          "Culinary & Street Food",
+          "Nightlife & Vibes"
+        ],
+        "description": "Popular eating spot serving local specialties and regional delicacies in Mumbai.",
+        "highlights": [
+          "Fresh Regional Cuisine",
+          "Casual Dining",
+          "Takeaway Available"
+        ],
+        "best_time_to_visit": "01:00 PM (Lunch) or 08:00 PM (Dinner)",
+        "metro_station": "Mumbai Central Transit Link",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Real Amenity Catalog"
+      },
+      {
+        "id": "amazonia",
+        "name": "Amazonia",
+        "tagline": "Local dining and culinary destination in Mumbai",
+        "category": "food",
+        "category_label": "Local Food Spots",
+        "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.6,
+        "reviews_count": 920,
+        "price_tier": "$$",
+        "cost_estimate": "₹200 - ₹600 per person (Estimated Market Range)",
+        "cost_is_estimated": true,
+        "budget_numeric": 2,
+        "location": "Amazonia,  Avenue 3",
+        "distance_km": 0.7,
+        "coordinates": [
+          19.0593672,
+          72.8650108
+        ],
+        "opening_hours": "11:30 AM - 11:00 PM",
+        "accessibility": "Ground Floor Access • Seating Available",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.5,
+        "safety_score": 9.0,
+        "safety_advisory": "Standard urban hospitality district",
+        "interests": [
+          "Culinary & Street Food",
+          "Nightlife & Vibes"
+        ],
+        "description": "Popular eating spot serving local specialties and regional delicacies in Mumbai.",
+        "highlights": [
+          "Fresh Regional Cuisine",
+          "Casual Dining",
+          "Takeaway Available"
+        ],
+        "best_time_to_visit": "01:00 PM (Lunch) or 08:00 PM (Dinner)",
+        "metro_station": "Mumbai Central Transit Link",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Real Amenity Catalog"
+      },
+      {
+        "id": "chhatrapati-shivaji-maharaj-park",
+        "name": "Chhatrapati Shivaji Maharaj Park",
+        "tagline": "Scenic recreational green space in Mumbai",
+        "category": "parks",
+        "category_label": "Parks & Recreational",
+        "image": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.7,
+        "reviews_count": 1450,
+        "price_tier": "$",
+        "cost_estimate": "Free Admission (Public Park)",
+        "cost_is_estimated": false,
+        "budget_numeric": 1,
+        "location": "Chhatrapati Shivaji Maharaj Park,  Kurla East",
+        "distance_km": 0.1,
+        "coordinates": [
+          19.0542928,
+          72.8702977
+        ],
+        "opening_hours": "06:00 AM - 08:30 PM",
+        "accessibility": "Barrier-Free Walking Paths • Paved Trails",
+        "accessibility_score": 5,
+        "cleanliness_rating": 4.7,
+        "safety_score": 9.5,
+        "safety_advisory": "Daylight hours recommended; public walking trails",
+        "interests": [
+          "Nature & Relaxation",
+          "Budget Travel",
+          "Photography & Scenic"
+        ],
+        "description": "Public park offering lush open spaces, walking trails, and fresh air away from traffic in Mumbai.",
+        "highlights": [
+          "Jogging & Walking Track",
+          "Lush Trees",
+          "Family Friendly",
+          "Zero Admission Fee"
+        ],
+        "best_time_to_visit": "06:30 AM - 09:30 AM (Morning Walks)",
+        "metro_station": "Near Chhatrapati Shivaji Maharaj Park Bus Stop",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Public Parks"
+      },
+      {
+        "id": "brihanmumbai-mahanagar-palika-garden",
+        "name": "Brihanmumbai Mahanagar Palika Garden",
+        "tagline": "Scenic recreational green space in Mumbai",
+        "category": "parks",
+        "category_label": "Parks & Recreational",
+        "image": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.7,
+        "reviews_count": 1450,
+        "price_tier": "$",
+        "cost_estimate": "Free Admission (Public Park)",
+        "cost_is_estimated": false,
+        "budget_numeric": 1,
+        "location": "Brihanmumbai Mahanagar Palika Garden,  Kurla East",
+        "distance_km": 0.2,
+        "coordinates": [
+          19.0529914,
+          72.8699289
+        ],
+        "opening_hours": "06:00 AM - 08:30 PM",
+        "accessibility": "Barrier-Free Walking Paths • Paved Trails",
+        "accessibility_score": 5,
+        "cleanliness_rating": 4.7,
+        "safety_score": 9.5,
+        "safety_advisory": "Daylight hours recommended; public walking trails",
+        "interests": [
+          "Nature & Relaxation",
+          "Budget Travel",
+          "Photography & Scenic"
+        ],
+        "description": "Public park offering lush open spaces, walking trails, and fresh air away from traffic in Mumbai.",
+        "highlights": [
+          "Jogging & Walking Track",
+          "Lush Trees",
+          "Family Friendly",
+          "Zero Admission Fee"
+        ],
+        "best_time_to_visit": "06:30 AM - 09:30 AM (Morning Walks)",
+        "metro_station": "Near Brihanmumbai Mahanagar Palika Garden Bus Stop",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Public Parks"
+      },
+      {
+        "id": "hotel-home-town",
+        "name": "Hotel home town",
+        "tagline": "Hospitality and accommodation stay in Mumbai",
+        "category": "hotels",
+        "category_label": "Hotels & Stays",
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.5,
+        "reviews_count": 680,
+        "price_tier": "$$$",
+        "cost_estimate": "₹2,500 - ₹6,000 / night (Estimated Room Rate)",
+        "cost_is_estimated": true,
+        "budget_numeric": 3,
+        "location": "Hotel home town,  Lal Bahadur Shastri Marg",
+        "distance_km": 0.4,
+        "coordinates": [
+          19.0523856,
+          72.8666168
+        ],
+        "opening_hours": "24/7 Front Desk",
+        "accessibility": "Elevator Access • Accessible Lobby",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.8,
+        "safety_score": 9.4,
+        "safety_advisory": "Commercial lodging with secure reception",
+        "interests": [
+          "Nightlife & Vibes",
+          "Culinary & Street Food"
+        ],
+        "description": "Comfortable hotel accommodation offering modern amenities and convenient city transit connections.",
+        "highlights": [
+          "Wi-Fi Included",
+          "24/7 Check-In",
+          "Central City Location"
+        ],
+        "best_time_to_visit": "Check-in 02:00 PM",
+        "metro_station": "Mumbai Station",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Lodging Registry"
+      },
+      {
+        "id": "hotel-ashray",
+        "name": "Hotel Ashray",
+        "tagline": "Hospitality and accommodation stay in Mumbai",
+        "category": "hotels",
+        "category_label": "Hotels & Stays",
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.5,
+        "reviews_count": 680,
+        "price_tier": "$$$",
+        "cost_estimate": "₹2,500 - ₹6,000 / night (Estimated Room Rate)",
+        "cost_is_estimated": true,
+        "budget_numeric": 3,
+        "location": "Hotel Ashray,  Road No 1",
+        "distance_km": 1.2,
+        "coordinates": [
+          19.0453464,
+          72.8646654
+        ],
+        "opening_hours": "24/7 Front Desk",
+        "accessibility": "Elevator Access • Accessible Lobby",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.8,
+        "safety_score": 9.4,
+        "safety_advisory": "Commercial lodging with secure reception",
+        "interests": [
+          "Nightlife & Vibes",
+          "Culinary & Street Food"
+        ],
+        "description": "Comfortable hotel accommodation offering modern amenities and convenient city transit connections.",
+        "highlights": [
+          "Wi-Fi Included",
+          "24/7 Check-In",
+          "Central City Location"
+        ],
+        "best_time_to_visit": "Check-in 02:00 PM",
+        "metro_station": "Mumbai Station",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Lodging Registry"
+      }
+    ],
+    "last_updated": "2026-10-09 11:49:59",
+    "data_sources": [
+      "OpenStreetMap Nominatim (Geocoding & POIs)",
+      "Open-Meteo (Live Real-Time Weather)",
+      "Wikipedia REST API (Overview, History, Landmarks)"
+    ]
+  },
+  "london": {
+    "city_name": "London",
+    "display_name": "Greater London, England, United Kingdom",
+    "country": "United Kingdom",
+    "country_code": "gb",
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "overview": {
+      "title": "Greater London",
+      "description": "Metropolitan area in England",
+      "extract": "Greater London is an administrative area in England, coterminous with the London region, containing most of the continuous urban area of London. It contains 33 local government districts: the 32 London boroughs, which form a ceremonial county also called Greater London, and the City of London, which is a separate ceremonial county. The Greater London Authority is responsible for strategic local government across the region, and regular local government is the responsibility of the borough councils and the City of London Corporation. Greater London is bordered by the ceremonial counties of Hertfordshire to the north, Essex to the north-east, Kent to the south-east, Surrey to the south, and Berkshire and Buckinghamshire to the west.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/City_of_London%2C_seen_from_Tower_Bridge.jpg/3840px-City_of_London%2C_seen_from_Tower_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page_url": "https://en.wikipedia.org/wiki/Greater_London",
+      "data_source": "Wikipedia Official Free REST API"
+    },
+    "weather": {
+      "temperature": "16°C",
+      "condition": "Overcast",
+      "apparent_temperature": "14°C",
+      "humidity": "89%",
+      "wind": "19.4 km/h",
+      "alert": "Cloudy skies. Rain unlikely but carry light outerwear.",
+      "is_live": true,
+      "data_source": "Open-Meteo Live Free Meteorological API (No Key Required)",
+      "timestamp": "11:50 AM"
+    },
+    "emergency": {
+      "unified": "999 / 112",
+      "police": "999",
+      "ambulance": "999",
+      "country": "United Kingdom"
+    },
+    "places": [
+      {
+        "id": "aaaaa-tourist-attractions-of-china",
+        "name": "AAAAA Tourist Attractions of China",
+        "tagline": "Renowned landmark in Greater London",
+        "category": "tourist",
+        "category_label": "Tourist Attraction",
+        "image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "£0 - £200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "AAAAA Tourist Attractions of China, Greater London",
+        "distance_km": 0.0,
+        "coordinates": [
+          51.5074456,
+          -0.1277653
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "AAAAA is awarded to the most important and best-maintained tourist attractions in the People's Republic of China, given the highest level in the rating categories used by the Ministry of Culture and Tourism. As of 2025, there are 359 tourist attractions listed as 5A.",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near AAAAA Tourist Attractions of China Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "tourism-in-london",
+        "name": "Tourism in London",
+        "tagline": "Renowned landmark in Greater London",
+        "category": "tourist",
+        "category_label": "Tourist Attraction",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Buckingham_Palace_UK.jpg/330px-Buckingham_Palace_UK.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "£0 - £200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Tourism in London, Greater London",
+        "distance_km": 0.0,
+        "coordinates": [
+          51.5074456,
+          -0.1277653
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "London, the capital city of England, is one of the world's most visited cities in terms of international visits, ranking third in 2024. It is home to an array of notable tourist attractions, attracting 20.3 million overnight visits in 2023, far more than any other town or city an...",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Tourism in London Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "tourism-in-china",
+        "name": "Tourism in China",
+        "tagline": "Renowned landmark in Greater London",
+        "category": "tourist",
+        "category_label": "Tourist Attraction",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Shanghai_-_Skyline_Sunset_0057.jpg/330px-Shanghai_-_Skyline_Sunset_0057.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "£0 - £200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Tourism in China, Greater London",
+        "distance_km": 0.0,
+        "coordinates": [
+          51.5074456,
+          -0.1277653
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": " Tourism in China is a growing industry that is becoming a significant part of the Chinese economy. The rate of tourism has expanded over the last few decades since the beginning of reform and opening up. The emergence of a newly rich middle class and an easing of restrictions on...",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Tourism in China Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "london-tourist-board",
+        "name": "London Tourist Board",
+        "tagline": "Renowned landmark in Greater London",
+        "category": "tourist",
+        "category_label": "Tourist Attraction",
+        "image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "£0 - £200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "London Tourist Board, Greater London",
+        "distance_km": 0.0,
+        "coordinates": [
+          51.5074456,
+          -0.1277653
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "The London Tourist Board was established in 1963 and became the official regional tourist board for London under the Development of Tourism Act in 1969. It was responsible for the marketing and promotion of the capital, providing tourist information services, and recommending imp...",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near London Tourist Board Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "london-eye",
+        "name": "London Eye",
+        "tagline": "Renowned landmark in Greater London",
+        "category": "parks",
+        "category_label": "Parks & Nature",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/London-Eye-2009.JPG/330px-London-Eye-2009.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "£0 - £200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "London Eye, Greater London",
+        "distance_km": 0.7,
+        "coordinates": [
+          51.5033,
+          -0.1194
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "The London Eye, originally the Millennium Wheel, is a cantilevered observation wheel on the South Bank of the River Thames in London. It is the world's tallest cantilevered observation wheel, and the most popular paid tourist attraction in the United Kingdom with more than three ...",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near London Eye Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "westminster",
+        "name": "Westminster",
+        "tagline": "Scenic recreational green space in Greater London",
+        "category": "parks",
+        "category_label": "Parks & Recreational",
+        "image": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.7,
+        "reviews_count": 1450,
+        "price_tier": "$",
+        "cost_estimate": "Free Admission (Public Park)",
+        "cost_is_estimated": false,
+        "budget_numeric": 1,
+        "location": "Westminster,  Covent Garden",
+        "distance_km": 0.3,
+        "coordinates": [
+          51.5056965,
+          -0.1301123
+        ],
+        "opening_hours": "06:00 AM - 08:30 PM",
+        "accessibility": "Barrier-Free Walking Paths • Paved Trails",
+        "accessibility_score": 5,
+        "cleanliness_rating": 4.7,
+        "safety_score": 9.5,
+        "safety_advisory": "Daylight hours recommended; public walking trails",
+        "interests": [
+          "Nature & Relaxation",
+          "Budget Travel",
+          "Photography & Scenic"
+        ],
+        "description": "Public park offering lush open spaces, walking trails, and fresh air away from traffic in Greater London.",
+        "highlights": [
+          "Jogging & Walking Track",
+          "Lush Trees",
+          "Family Friendly",
+          "Zero Admission Fee"
+        ],
+        "best_time_to_visit": "06:30 AM - 09:30 AM (Morning Walks)",
+        "metro_station": "Near Westminster Bus Stop",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Public Parks"
+      },
+      {
+        "id": "leicester-square",
+        "name": "Leicester Square",
+        "tagline": "Scenic recreational green space in Greater London",
+        "category": "parks",
+        "category_label": "Parks & Recreational",
+        "image": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.7,
+        "reviews_count": 1450,
+        "price_tier": "$",
+        "cost_estimate": "Free Admission (Public Park)",
+        "cost_is_estimated": false,
+        "budget_numeric": 1,
+        "location": "Leicester Square,  East Marylebone",
+        "distance_km": 0.4,
+        "coordinates": [
+          51.5104338,
+          -0.1301524
+        ],
+        "opening_hours": "06:00 AM - 08:30 PM",
+        "accessibility": "Barrier-Free Walking Paths • Paved Trails",
+        "accessibility_score": 5,
+        "cleanliness_rating": 4.7,
+        "safety_score": 9.5,
+        "safety_advisory": "Daylight hours recommended; public walking trails",
+        "interests": [
+          "Nature & Relaxation",
+          "Budget Travel",
+          "Photography & Scenic"
+        ],
+        "description": "Public park offering lush open spaces, walking trails, and fresh air away from traffic in Greater London.",
+        "highlights": [
+          "Jogging & Walking Track",
+          "Lush Trees",
+          "Family Friendly",
+          "Zero Admission Fee"
+        ],
+        "best_time_to_visit": "06:30 AM - 09:30 AM (Morning Walks)",
+        "metro_station": "Near Leicester Square Bus Stop",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Public Parks"
+      },
+      {
+        "id": "the-trafalgar-st-james-london-curio-collection-by-hilton",
+        "name": "The Trafalgar St. James London, Curio Collection by Hilton",
+        "tagline": "Hospitality and accommodation stay in Greater London",
+        "category": "hotels",
+        "category_label": "Hotels & Stays",
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.5,
+        "reviews_count": 680,
+        "price_tier": "$$$",
+        "cost_estimate": "£2,500 - £6,000 / night (Estimated Room Rate)",
+        "cost_is_estimated": true,
+        "budget_numeric": 3,
+        "location": "The Trafalgar St. James London,  Curio Collection by Hilton",
+        "distance_km": 0.1,
+        "coordinates": [
+          51.5073562,
+          -0.1295044
+        ],
+        "opening_hours": "24/7 Front Desk",
+        "accessibility": "Elevator Access • Accessible Lobby",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.8,
+        "safety_score": 9.4,
+        "safety_advisory": "Commercial lodging with secure reception",
+        "interests": [
+          "Nightlife & Vibes",
+          "Culinary & Street Food"
+        ],
+        "description": "Comfortable hotel accommodation offering modern amenities and convenient city transit connections.",
+        "highlights": [
+          "Wi-Fi Included",
+          "24/7 Check-In",
+          "Central City Location"
+        ],
+        "best_time_to_visit": "Check-in 02:00 PM",
+        "metro_station": "Greater London Station",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Lodging Registry"
+      },
+      {
+        "id": "great-scotland-yard-hotel",
+        "name": "Great Scotland Yard Hotel",
+        "tagline": "Hospitality and accommodation stay in Greater London",
+        "category": "hotels",
+        "category_label": "Hotels & Stays",
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.5,
+        "reviews_count": 680,
+        "price_tier": "$$$",
+        "cost_estimate": "£2,500 - £6,000 / night (Estimated Room Rate)",
+        "cost_is_estimated": true,
+        "budget_numeric": 3,
+        "location": "Great Scotland Yard Hotel,  3-5",
+        "distance_km": 0.2,
+        "coordinates": [
+          51.5063787,
+          -0.1263579
+        ],
+        "opening_hours": "24/7 Front Desk",
+        "accessibility": "Elevator Access • Accessible Lobby",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.8,
+        "safety_score": 9.4,
+        "safety_advisory": "Commercial lodging with secure reception",
+        "interests": [
+          "Nightlife & Vibes",
+          "Culinary & Street Food"
+        ],
+        "description": "Comfortable hotel accommodation offering modern amenities and convenient city transit connections.",
+        "highlights": [
+          "Wi-Fi Included",
+          "24/7 Check-In",
+          "Central City Location"
+        ],
+        "best_time_to_visit": "Check-in 02:00 PM",
+        "metro_station": "Greater London Station",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Lodging Registry"
+      }
+    ],
+    "last_updated": "2026-10-09 11:50:20",
+    "data_sources": [
+      "OpenStreetMap Nominatim (Geocoding & POIs)",
+      "Open-Meteo (Live Real-Time Weather)",
+      "Wikipedia REST API (Overview, History, Landmarks)"
+    ]
+  },
+  "lonavala": {
+    "city_name": "Lonavala",
+    "display_name": "Lonavala, Mahatma Gandhi Road, Summer Hill, Lonavala, Mawal Subdistrict, Pune, Maharashtra, 410400, India",
+    "country": "India",
+    "country_code": "in",
+    "lat": 18.7503694,
+    "lon": 73.4069436,
+    "overview": {
+      "title": "Lonavala",
+      "description": "Hill station in Maharashtra, India",
+      "extract": "Lonavala-Khandala is a hill station and a municipal council in the Pune district, Maharashtra. It is about 64 km west of Pune and 96 km to the east of Mumbai. It is known for its production of the hard candy chikki and is also a major stop on the railway line connecting Mumbai and Pune. From the Pune suburbs, local trains are available from Pune Junction. The Mumbai-Pune Expressway and the Mumbai-Pune national highway both pass through Lonavala.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Tiger_Valley_Bridge_view_3.jpg/3840px-Tiger_Valley_Bridge_view_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page_url": "https://en.wikipedia.org/wiki/Lonavala",
+      "data_source": "Wikipedia Official Free REST API"
+    },
+    "weather": {
+      "temperature": "30°C",
+      "condition": "Clear Sky",
+      "apparent_temperature": "33°C",
+      "humidity": "48%",
+      "wind": "12.3 km/h",
+      "alert": "Optimal clear atmospheric conditions. Excellent for sightseeing.",
+      "is_live": true,
+      "data_source": "Open-Meteo Live Free Meteorological API (No Key Required)",
+      "timestamp": "12:04 PM"
+    },
+    "emergency": {
+      "police": "100",
+      "ambulance": "108",
+      "fire": "101",
+      "unified": "112",
+      "country": "India"
+    },
+    "places": [
+      {
+        "id": "tourism-in-maharashtra",
+        "name": "Tourism in Maharashtra",
+        "tagline": "Renowned landmark in Lonavala",
+        "category": "tourist",
+        "category_label": "Tourist Attraction",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Lascar_Elephanta_Island_-_Three_headed_figure_emerging_from_Shiva_%284558850202%29.jpg/330px-Lascar_Elephanta_Island_-_Three_headed_figure_emerging_from_Shiva_%284558850202%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "₹0 - ₹200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Tourism in Maharashtra, Lonavala",
+        "distance_km": 0.0,
+        "coordinates": [
+          18.7503694,
+          73.4069436
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "Maharashtra attracts tourists from other Indian states and foreign countries. It was the second most visited Indian state by foreigners and fifth most visited state by domestic tourists in the country in 2021. Aurangabad is the tourism capital of Maharashtra.",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Tourism in Maharashtra Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "sudhagad",
+        "name": "Sudhagad",
+        "tagline": "Renowned landmark in Lonavala",
+        "category": "historical",
+        "category_label": "Heritage & History",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Sudhagad_Fort.jpg/330px-Sudhagad_Fort.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "₹0 - ₹200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Sudhagad, Lonavala",
+        "distance_km": 25.1,
+        "coordinates": [
+          18.54,
+          73.32
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "Sudhagad / Bhorapgad is a hill fort situated in Maharashtra, India. It lies about 53 kilometres (33 mi) west of Pune, 26 kilometres (16 mi) south of Lonavala and 11 kilometres (6.8 mi) east of Pali in Raigad District. The summit is 620 metres (2,030 ft) above sea level. The entir...",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Sudhagad Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "tung-fort",
+        "name": "Tung Fort",
+        "tagline": "Renowned landmark in Lonavala",
+        "category": "historical",
+        "category_label": "Heritage & History",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tung_Fort.jpg/330px-Tung_Fort.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "₹0 - ₹200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Tung Fort, Lonavala",
+        "distance_km": 11.6,
+        "coordinates": [
+          18.660273,
+          73.463142
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "Tung Fort is a hill fort in Pune District, India.",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Tung Fort Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "kune-falls",
+        "name": "Kune Falls",
+        "tagline": "Renowned landmark in Lonavala",
+        "category": "tourist",
+        "category_label": "Tourist Attraction",
+        "image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "₹0 - ₹200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Kune Falls, Lonavala",
+        "distance_km": 3.0,
+        "coordinates": [
+          18.7625,
+          73.38138889
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "The Kune Falls is a waterfall at Khandala in Pune district in the Indian state of Maharashtra. It is the 14th highest waterfall in India.",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Kune Falls Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "karla-caves",
+        "name": "Karla Caves",
+        "tagline": "Renowned landmark in Lonavala",
+        "category": "historical",
+        "category_label": "Heritage & History",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Karla_caves_Chaitya.jpg/330px-Karla_caves_Chaitya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "₹0 - ₹200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Karla Caves, Lonavala",
+        "distance_km": 7.6,
+        "coordinates": [
+          18.78333333,
+          73.47055556
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "The Karla Caves, Karli Caves, Karle Caves or Karla Cells, are a complex of ancient Buddhist Indian rock-cut caves at Karli near Lonavala, Maharashtra. It is just 10.9 Kilometers away from Lonavala. Other caves in the area are Bhaja Caves, Patan Buddhist Cave, Bedse Caves and Nasi...",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Karla Caves Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "aerial-lifts-in-india",
+        "name": "Aerial lifts in India",
+        "tagline": "Renowned landmark in Lonavala",
+        "category": "tourist",
+        "category_label": "Tourist Attraction",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Gulmarg_Gondola_Seen101.jpg/330px-Gulmarg_Gondola_Seen101.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "₹0 - ₹200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Aerial lifts in India, Lonavala",
+        "distance_km": 0.0,
+        "coordinates": [
+          18.7503694,
+          73.4069436
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "The aerial lift in India, also known as ropeways or cableways in India, consists of various Cable transport systems such as Aerial tramway, Chairlift, Gondola lift and Material ropeway where cabins, open chairs or containers are hauled above the ground with the help of cables. Wi...",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Aerial lifts in India Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "german-bakery-lonavala",
+        "name": "German Bakery Lonavala",
+        "tagline": "Local dining and culinary destination in Lonavala",
+        "category": "food",
+        "category_label": "Local Food Spots",
+        "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.6,
+        "reviews_count": 920,
+        "price_tier": "$$",
+        "cost_estimate": "₹200 - ₹600 per person (Estimated Market Range)",
+        "cost_is_estimated": true,
+        "budget_numeric": 2,
+        "location": "German Bakery Lonavala,  Coover Castle Rd",
+        "distance_km": 0.8,
+        "coordinates": [
+          18.7560951,
+          73.402008
+        ],
+        "opening_hours": "11:30 AM - 11:00 PM",
+        "accessibility": "Ground Floor Access • Seating Available",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.5,
+        "safety_score": 9.0,
+        "safety_advisory": "Standard urban hospitality district",
+        "interests": [
+          "Culinary & Street Food",
+          "Nightlife & Vibes"
+        ],
+        "description": "Popular eating spot serving local specialties and regional delicacies in Lonavala.",
+        "highlights": [
+          "Fresh Regional Cuisine",
+          "Casual Dining",
+          "Takeaway Available"
+        ],
+        "best_time_to_visit": "01:00 PM (Lunch) or 08:00 PM (Dinner)",
+        "metro_station": "Lonavala Central Transit Link",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Real Amenity Catalog"
+      },
+      {
+        "id": "rama-krishna",
+        "name": "Rama Krishna",
+        "tagline": "Local dining and culinary destination in Lonavala",
+        "category": "food",
+        "category_label": "Local Food Spots",
+        "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.6,
+        "reviews_count": 920,
+        "price_tier": "$$",
+        "cost_estimate": "₹200 - ₹600 per person (Estimated Market Range)",
+        "cost_is_estimated": true,
+        "budget_numeric": 2,
+        "location": "Rama Krishna,  Ward 34/35",
+        "distance_km": 0.5,
+        "coordinates": [
+          18.7538895,
+          73.4047949
+        ],
+        "opening_hours": "11:30 AM - 11:00 PM",
+        "accessibility": "Ground Floor Access • Seating Available",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.5,
+        "safety_score": 9.0,
+        "safety_advisory": "Standard urban hospitality district",
+        "interests": [
+          "Culinary & Street Food",
+          "Nightlife & Vibes"
+        ],
+        "description": "Popular eating spot serving local specialties and regional delicacies in Lonavala.",
+        "highlights": [
+          "Fresh Regional Cuisine",
+          "Casual Dining",
+          "Takeaway Available"
+        ],
+        "best_time_to_visit": "01:00 PM (Lunch) or 08:00 PM (Dinner)",
+        "metro_station": "Lonavala Central Transit Link",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Real Amenity Catalog"
+      },
+      {
+        "id": "interval-pure-veg-bollywood-eatery",
+        "name": "Interval - Pure Veg. Bollywood Eatery",
+        "tagline": "Local dining and culinary destination in Lonavala",
+        "category": "food",
+        "category_label": "Local Food Spots",
+        "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.6,
+        "reviews_count": 920,
+        "price_tier": "$$",
+        "cost_estimate": "₹200 - ₹600 per person (Estimated Market Range)",
+        "cost_is_estimated": true,
+        "budget_numeric": 2,
+        "location": "Interval - Pure Veg. Bollywood Eatery,  opp. regal wines",
+        "distance_km": 0.4,
+        "coordinates": [
+          18.7539587,
+          73.4052177
+        ],
+        "opening_hours": "11:30 AM - 11:00 PM",
+        "accessibility": "Ground Floor Access • Seating Available",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.5,
+        "safety_score": 9.0,
+        "safety_advisory": "Standard urban hospitality district",
+        "interests": [
+          "Culinary & Street Food",
+          "Nightlife & Vibes"
+        ],
+        "description": "Popular eating spot serving local specialties and regional delicacies in Lonavala.",
+        "highlights": [
+          "Fresh Regional Cuisine",
+          "Casual Dining",
+          "Takeaway Available"
+        ],
+        "best_time_to_visit": "01:00 PM (Lunch) or 08:00 PM (Dinner)",
+        "metro_station": "Lonavala Central Transit Link",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Real Amenity Catalog"
+      },
+      {
+        "id": "diwali-baug",
+        "name": "Diwali Baug",
+        "tagline": "Scenic recreational green space in Lonavala",
+        "category": "parks",
+        "category_label": "Parks & Recreational",
+        "image": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.7,
+        "reviews_count": 1450,
+        "price_tier": "$",
+        "cost_estimate": "Free Admission (Public Park)",
+        "cost_is_estimated": false,
+        "budget_numeric": 1,
+        "location": "Diwali Baug,  Lonavala",
+        "distance_km": 1.1,
+        "coordinates": [
+          18.7566291,
+          73.3990654
+        ],
+        "opening_hours": "06:00 AM - 08:30 PM",
+        "accessibility": "Barrier-Free Walking Paths • Paved Trails",
+        "accessibility_score": 5,
+        "cleanliness_rating": 4.7,
+        "safety_score": 9.5,
+        "safety_advisory": "Daylight hours recommended; public walking trails",
+        "interests": [
+          "Nature & Relaxation",
+          "Budget Travel",
+          "Photography & Scenic"
+        ],
+        "description": "Public park offering lush open spaces, walking trails, and fresh air away from traffic in Lonavala.",
+        "highlights": [
+          "Jogging & Walking Track",
+          "Lush Trees",
+          "Family Friendly",
+          "Zero Admission Fee"
+        ],
+        "best_time_to_visit": "06:30 AM - 09:30 AM (Morning Walks)",
+        "metro_station": "Near Diwali Baug Bus Stop",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Public Parks"
+      },
+      {
+        "id": "shivaji-garden",
+        "name": "Shivaji Garden",
+        "tagline": "Scenic recreational green space in Lonavala",
+        "category": "parks",
+        "category_label": "Parks & Recreational",
+        "image": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.7,
+        "reviews_count": 1450,
+        "price_tier": "$",
+        "cost_estimate": "Free Admission (Public Park)",
+        "cost_is_estimated": false,
+        "budget_numeric": 1,
+        "location": "Shivaji Garden,  Lonavala",
+        "distance_km": 0.3,
+        "coordinates": [
+          18.750304,
+          73.403806
+        ],
+        "opening_hours": "06:00 AM - 08:30 PM",
+        "accessibility": "Barrier-Free Walking Paths • Paved Trails",
+        "accessibility_score": 5,
+        "cleanliness_rating": 4.7,
+        "safety_score": 9.5,
+        "safety_advisory": "Daylight hours recommended; public walking trails",
+        "interests": [
+          "Nature & Relaxation",
+          "Budget Travel",
+          "Photography & Scenic"
+        ],
+        "description": "Public park offering lush open spaces, walking trails, and fresh air away from traffic in Lonavala.",
+        "highlights": [
+          "Jogging & Walking Track",
+          "Lush Trees",
+          "Family Friendly",
+          "Zero Admission Fee"
+        ],
+        "best_time_to_visit": "06:30 AM - 09:30 AM (Morning Walks)",
+        "metro_station": "Near Shivaji Garden Bus Stop",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Public Parks"
+      },
+      {
+        "id": "rajkiran-resorts",
+        "name": "Rajkiran Resorts",
+        "tagline": "Hospitality and accommodation stay in Lonavala",
+        "category": "hotels",
+        "category_label": "Hotels & Stays",
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.5,
+        "reviews_count": 680,
+        "price_tier": "$$$",
+        "cost_estimate": "₹2,500 - ₹6,000 / night (Estimated Room Rate)",
+        "cost_is_estimated": true,
+        "budget_numeric": 3,
+        "location": "Rajkiran Resorts,  NH48",
+        "distance_km": 0.8,
+        "coordinates": [
+          18.7547591,
+          73.4007645
+        ],
+        "opening_hours": "24/7 Front Desk",
+        "accessibility": "Elevator Access • Accessible Lobby",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.8,
+        "safety_score": 9.4,
+        "safety_advisory": "Commercial lodging with secure reception",
+        "interests": [
+          "Nightlife & Vibes",
+          "Culinary & Street Food"
+        ],
+        "description": "Comfortable hotel accommodation offering modern amenities and convenient city transit connections.",
+        "highlights": [
+          "Wi-Fi Included",
+          "24/7 Check-In",
+          "Central City Location"
+        ],
+        "best_time_to_visit": "Check-in 02:00 PM",
+        "metro_station": "Lonavala Station",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Lodging Registry"
+      },
+      {
+        "id": "highland-resort",
+        "name": "Highland Resort",
+        "tagline": "Hospitality and accommodation stay in Lonavala",
+        "category": "hotels",
+        "category_label": "Hotels & Stays",
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.5,
+        "reviews_count": 680,
+        "price_tier": "$$$",
+        "cost_estimate": "₹2,500 - ₹6,000 / night (Estimated Room Rate)",
+        "cost_is_estimated": true,
+        "budget_numeric": 3,
+        "location": "Highland Resort,  NH48",
+        "distance_km": 0.6,
+        "coordinates": [
+          18.7552384,
+          73.4040932
+        ],
+        "opening_hours": "24/7 Front Desk",
+        "accessibility": "Elevator Access • Accessible Lobby",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.8,
+        "safety_score": 9.4,
+        "safety_advisory": "Commercial lodging with secure reception",
+        "interests": [
+          "Nightlife & Vibes",
+          "Culinary & Street Food"
+        ],
+        "description": "Comfortable hotel accommodation offering modern amenities and convenient city transit connections.",
+        "highlights": [
+          "Wi-Fi Included",
+          "24/7 Check-In",
+          "Central City Location"
+        ],
+        "best_time_to_visit": "Check-in 02:00 PM",
+        "metro_station": "Lonavala Station",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Lodging Registry"
+      }
+    ],
+    "last_updated": "2026-10-09 12:04:51",
+    "data_sources": [
+      "OpenStreetMap Nominatim (Geocoding & POIs)",
+      "Open-Meteo (Live Real-Time Weather)",
+      "Wikipedia REST API (Overview, History, Landmarks)"
+    ]
+  },
+  "pesaro e urbino": {
+    "city_name": "Pesaro E Urbino",
+    "display_name": "Pesaro e Urbino, Marche, Italia",
+    "country": "Italia",
+    "country_code": "it",
+    "lat": 43.6941127,
+    "lon": 12.7014437,
+    "overview": {
+      "title": "Pesaro E Urbino",
+      "description": "Metropolitan Urban Destination",
+      "extract": "Pesaro E Urbino is a vibrant destination featuring rich cultural landmarks, local cuisine, and urban heritage.",
+      "image": null,
+      "page_url": "https://en.wikipedia.org/wiki/Pesaro%20E%20Urbino",
+      "data_source": "CityPulse Open Data Summary"
+    },
+    "weather": {
+      "temperature": "18°C",
+      "condition": "Partly Cloudy",
+      "apparent_temperature": "19°C",
+      "humidity": "84%",
+      "wind": "3.1 km/h",
+      "alert": "Mild cloud cover. Comfortable for walking tours.",
+      "is_live": true,
+      "data_source": "Open-Meteo Live Free Meteorological API (No Key Required)",
+      "timestamp": "12:05 PM"
+    },
+    "emergency": {
+      "unified": "112",
+      "note": "International standard emergency number (works on GSM networks)"
+    },
+    "places": [
+      {
+        "id": "gradara",
+        "name": "Gradara",
+        "tagline": "Renowned landmark in Pesaro E Urbino",
+        "category": "tourist",
+        "category_label": "Tourist Attraction",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Gradara_II.jpg/330px-Gradara_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "€0 - €200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Gradara, Pesaro E Urbino",
+        "distance_km": 27.1,
+        "coordinates": [
+          43.93333333,
+          12.76666667
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "Gradara is a town and comune in the Province of Pesaro e Urbino (PU), in the region of Marche in central Italy. It is 6 km from Gabicce Mare and Cattolica, 25 km from Rimini, 15 km from Pesaro and 33 km from Urbino. It is one of I Borghi più belli d'Italia.",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Gradara Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "san-marino",
+        "name": "San Marino",
+        "tagline": "Renowned landmark in Pesaro E Urbino",
+        "category": "tourist",
+        "category_label": "Tourist Attraction",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/330px-Flag_of_San_Marino.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "€0 - €200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "San Marino, Pesaro E Urbino",
+        "distance_km": 34.2,
+        "coordinates": [
+          43.93333333,
+          12.43333333
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "San Marino, officially the Republic of San Marino, is a landlocked country in Southern Europe, completely surrounded by Italy. Located on the northeastern slopes of the Apennine Mountains, it is the larger of two microstates within the Italian Peninsula, the other being Vatican C...",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near San Marino Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "tourism-in-italy",
+        "name": "Tourism in Italy",
+        "tagline": "Renowned landmark in Pesaro E Urbino",
+        "category": "tourist",
+        "category_label": "Tourist Attraction",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/330px-Colosseo_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "€0 - €200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Tourism in Italy, Pesaro E Urbino",
+        "distance_km": 0.0,
+        "coordinates": [
+          43.6941127,
+          12.7014437
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "Tourism in Italy is one of the largest economic sectors of the country. With 61,5 million international tourists in 2025, Italy is the fifth-most visited country in international tourism arrivals. According to 2018 estimates by the Bank of Italy, the tourism sector directly gener...",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Tourism in Italy Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "loffenau",
+        "name": "Loffenau",
+        "tagline": "Renowned landmark in Pesaro E Urbino",
+        "category": "tourist",
+        "category_label": "Tourist Attraction",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Loffenau_in_RA.svg/330px-Loffenau_in_RA.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "€0 - €200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Loffenau, Pesaro E Urbino",
+        "distance_km": 654.8,
+        "coordinates": [
+          48.7725,
+          8.38555556
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "Loffenau is a town in the district of Rastatt in Baden-Württemberg in Germany.",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Loffenau Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "central-italy",
+        "name": "Central Italy",
+        "tagline": "Renowned landmark in Pesaro E Urbino",
+        "category": "tourist",
+        "category_label": "Tourist Attraction",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Italia_centrale.svg/330px-Italia_centrale.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "rating": 4.7,
+        "reviews_count": 1800,
+        "price_tier": "$",
+        "cost_estimate": "€0 - €200 (Nominal/Free Admission)",
+        "cost_is_estimated": true,
+        "budget_numeric": 1,
+        "location": "Central Italy, Pesaro E Urbino",
+        "distance_km": 160.3,
+        "coordinates": [
+          42.3097,
+          13.2494
+        ],
+        "opening_hours": "09:00 AM - 06:00 PM (Standard Visitors Hours)",
+        "accessibility": "Wheelchair Access Varies • Check Site Entrance",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.6,
+        "safety_score": 9.2,
+        "safety_advisory": "Well visited public zone; observe local guidelines",
+        "interests": [
+          "Culture & History",
+          "Photography & Scenic",
+          "Budget Travel"
+        ],
+        "description": "Central Italy is one of the five official statistical regions of Italy used by the Italian National Institute of Statistics (ISTAT), a first-level NUTS region with code ITI, and a European Parliament constituency. It has 11,699,125 inhabitants as of 2026.",
+        "highlights": [
+          "Historic Architecture",
+          "Guided Walking Tours",
+          "Scenic Photography Point"
+        ],
+        "best_time_to_visit": "10:00 AM - 04:00 PM",
+        "metro_station": "Near Central Italy Transit Hub",
+        "is_dynamic": true,
+        "data_source": "Wikipedia & OpenStreetMap GeoData"
+      },
+      {
+        "id": "la-cerbara",
+        "name": "La Cerbara",
+        "tagline": "Local dining and culinary destination in Pesaro E Urbino",
+        "category": "food",
+        "category_label": "Local Food Spots",
+        "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.6,
+        "reviews_count": 920,
+        "price_tier": "$$",
+        "cost_estimate": "€200 - €600 per person (Estimated Market Range)",
+        "cost_is_estimated": true,
+        "budget_numeric": 2,
+        "location": "La Cerbara,  1",
+        "distance_km": 9.1,
+        "coordinates": [
+          43.72133,
+          12.8087484
+        ],
+        "opening_hours": "11:30 AM - 11:00 PM",
+        "accessibility": "Ground Floor Access • Seating Available",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.5,
+        "safety_score": 9.0,
+        "safety_advisory": "Standard urban hospitality district",
+        "interests": [
+          "Culinary & Street Food",
+          "Nightlife & Vibes"
+        ],
+        "description": "Popular eating spot serving local specialties and regional delicacies in Pesaro E Urbino.",
+        "highlights": [
+          "Fresh Regional Cuisine",
+          "Casual Dining",
+          "Takeaway Available"
+        ],
+        "best_time_to_visit": "01:00 PM (Lunch) or 08:00 PM (Dinner)",
+        "metro_station": "Pesaro E Urbino Central Transit Link",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Real Amenity Catalog"
+      },
+      {
+        "id": "ristorante-pizzeria-da-pitrok",
+        "name": "Ristorante Pizzeria da Pitrok",
+        "tagline": "Local dining and culinary destination in Pesaro E Urbino",
+        "category": "food",
+        "category_label": "Local Food Spots",
+        "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.6,
+        "reviews_count": 920,
+        "price_tier": "$$",
+        "cost_estimate": "€200 - €600 per person (Estimated Market Range)",
+        "cost_is_estimated": true,
+        "budget_numeric": 2,
+        "location": "Ristorante Pizzeria da Pitrok,  Via Fabio Tombari",
+        "distance_km": 9.1,
+        "coordinates": [
+          43.7024844,
+          12.8142834
+        ],
+        "opening_hours": "11:30 AM - 11:00 PM",
+        "accessibility": "Ground Floor Access • Seating Available",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.5,
+        "safety_score": 9.0,
+        "safety_advisory": "Standard urban hospitality district",
+        "interests": [
+          "Culinary & Street Food",
+          "Nightlife & Vibes"
+        ],
+        "description": "Popular eating spot serving local specialties and regional delicacies in Pesaro E Urbino.",
+        "highlights": [
+          "Fresh Regional Cuisine",
+          "Casual Dining",
+          "Takeaway Available"
+        ],
+        "best_time_to_visit": "01:00 PM (Lunch) or 08:00 PM (Dinner)",
+        "metro_station": "Pesaro E Urbino Central Transit Link",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Real Amenity Catalog"
+      },
+      {
+        "id": "locanda-girolomoni",
+        "name": "Locanda Girolomoni",
+        "tagline": "Local dining and culinary destination in Pesaro E Urbino",
+        "category": "food",
+        "category_label": "Local Food Spots",
+        "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.6,
+        "reviews_count": 920,
+        "price_tier": "$$",
+        "cost_estimate": "€200 - €600 per person (Estimated Market Range)",
+        "cost_is_estimated": true,
+        "budget_numeric": 2,
+        "location": "Locanda Girolomoni,  26",
+        "distance_km": 4.7,
+        "coordinates": [
+          43.7206673,
+          12.7470241
+        ],
+        "opening_hours": "11:30 AM - 11:00 PM",
+        "accessibility": "Ground Floor Access • Seating Available",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.5,
+        "safety_score": 9.0,
+        "safety_advisory": "Standard urban hospitality district",
+        "interests": [
+          "Culinary & Street Food",
+          "Nightlife & Vibes"
+        ],
+        "description": "Popular eating spot serving local specialties and regional delicacies in Pesaro E Urbino.",
+        "highlights": [
+          "Fresh Regional Cuisine",
+          "Casual Dining",
+          "Takeaway Available"
+        ],
+        "best_time_to_visit": "01:00 PM (Lunch) or 08:00 PM (Dinner)",
+        "metro_station": "Pesaro E Urbino Central Transit Link",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Real Amenity Catalog"
+      },
+      {
+        "id": "montemontanaro",
+        "name": "Montemontanaro",
+        "tagline": "Scenic recreational green space in Pesaro E Urbino",
+        "category": "parks",
+        "category_label": "Parks & Recreational",
+        "image": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.7,
+        "reviews_count": 1450,
+        "price_tier": "$",
+        "cost_estimate": "Free Admission (Public Park)",
+        "cost_is_estimated": false,
+        "budget_numeric": 1,
+        "location": "Montemontanaro,  Montefelcino",
+        "distance_km": 11.6,
+        "coordinates": [
+          43.7346102,
+          12.8339701
+        ],
+        "opening_hours": "06:00 AM - 08:30 PM",
+        "accessibility": "Barrier-Free Walking Paths • Paved Trails",
+        "accessibility_score": 5,
+        "cleanliness_rating": 4.7,
+        "safety_score": 9.5,
+        "safety_advisory": "Daylight hours recommended; public walking trails",
+        "interests": [
+          "Nature & Relaxation",
+          "Budget Travel",
+          "Photography & Scenic"
+        ],
+        "description": "Public park offering lush open spaces, walking trails, and fresh air away from traffic in Pesaro E Urbino.",
+        "highlights": [
+          "Jogging & Walking Track",
+          "Lush Trees",
+          "Family Friendly",
+          "Zero Admission Fee"
+        ],
+        "best_time_to_visit": "06:30 AM - 09:30 AM (Morning Walks)",
+        "metro_station": "Near Montemontanaro Bus Stop",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Public Parks"
+      },
+      {
+        "id": "parco-fluviale-roberta-capodagli",
+        "name": "Parco Fluviale Roberta Capodagli",
+        "tagline": "Scenic recreational green space in Pesaro E Urbino",
+        "category": "parks",
+        "category_label": "Parks & Recreational",
+        "image": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.7,
+        "reviews_count": 1450,
+        "price_tier": "$",
+        "cost_estimate": "Free Admission (Public Park)",
+        "cost_is_estimated": false,
+        "budget_numeric": 1,
+        "location": "Parco Fluviale Roberta Capodagli,  Fossombrone",
+        "distance_km": 8.1,
+        "coordinates": [
+          43.6881179,
+          12.8018134
+        ],
+        "opening_hours": "06:00 AM - 08:30 PM",
+        "accessibility": "Barrier-Free Walking Paths • Paved Trails",
+        "accessibility_score": 5,
+        "cleanliness_rating": 4.7,
+        "safety_score": 9.5,
+        "safety_advisory": "Daylight hours recommended; public walking trails",
+        "interests": [
+          "Nature & Relaxation",
+          "Budget Travel",
+          "Photography & Scenic"
+        ],
+        "description": "Public park offering lush open spaces, walking trails, and fresh air away from traffic in Pesaro E Urbino.",
+        "highlights": [
+          "Jogging & Walking Track",
+          "Lush Trees",
+          "Family Friendly",
+          "Zero Admission Fee"
+        ],
+        "best_time_to_visit": "06:30 AM - 09:30 AM (Morning Walks)",
+        "metro_station": "Near Parco Fluviale Roberta Capodagli Bus Stop",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Public Parks"
+      },
+      {
+        "id": "b-b-hotel",
+        "name": "B&B Hotel",
+        "tagline": "Hospitality and accommodation stay in Pesaro E Urbino",
+        "category": "hotels",
+        "category_label": "Hotels & Stays",
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.5,
+        "reviews_count": 680,
+        "price_tier": "$$$",
+        "cost_estimate": "€2,500 - €6,000 / night (Estimated Room Rate)",
+        "cost_is_estimated": true,
+        "budget_numeric": 3,
+        "location": "B&B Hotel,  Piazza 4 Novembre",
+        "distance_km": 11.5,
+        "coordinates": [
+          43.7343006,
+          12.833074
+        ],
+        "opening_hours": "24/7 Front Desk",
+        "accessibility": "Elevator Access • Accessible Lobby",
+        "accessibility_score": 4,
+        "cleanliness_rating": 4.8,
+        "safety_score": 9.4,
+        "safety_advisory": "Commercial lodging with secure reception",
+        "interests": [
+          "Nightlife & Vibes",
+          "Culinary & Street Food"
+        ],
+        "description": "Comfortable hotel accommodation offering modern amenities and convenient city transit connections.",
+        "highlights": [
+          "Wi-Fi Included",
+          "24/7 Check-In",
+          "Central City Location"
+        ],
+        "best_time_to_visit": "Check-in 02:00 PM",
+        "metro_station": "Pesaro E Urbino Station",
+        "is_dynamic": true,
+        "data_source": "OpenStreetMap Lodging Registry"
+      }
+    ],
+    "last_updated": "2026-10-09 12:06:06",
+    "data_sources": [
+      "OpenStreetMap Nominatim (Geocoding & POIs)",
+      "Open-Meteo (Live Real-Time Weather)",
+      "Wikipedia REST API (Overview, History, Landmarks)"
+    ]
+  }
+}

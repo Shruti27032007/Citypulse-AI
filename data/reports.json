@@ -1,0 +1,72 @@
+[
+  {
+    "id": "rep-101",
+    "category": "Street Lighting",
+    "category_label": "Street Lighting & Visibility",
+    "location": "Lantern Alley East Exit & Mott Way",
+    "description": "Two overhead lampposts flickering near the pedestrian exit. City maintenance notified by municipal patrol.",
+    "severity": "Moderate",
+    "status": "Verified by City Patrol",
+    "is_verified": true,
+    "timestamp": "Today, 10:15 AM",
+    "upvotes": 14,
+    "source_type": "Official City Patrol",
+    "is_sample": true
+  },
+  {
+    "id": "rep-102",
+    "category": "Transit Crowding",
+    "category_label": "Transit & Commute Alert",
+    "location": "Central Station Terminal 2 Transfer",
+    "description": "High passenger surge during morning peak hours. Recommend using Exit 4B for faster street egress.",
+    "severity": "Low",
+    "status": "Verified Community Advisory",
+    "is_verified": true,
+    "timestamp": "Today, 08:45 AM",
+    "upvotes": 29,
+    "source_type": "Transit Marshal",
+    "is_sample": true
+  },
+  {
+    "id": "rep-103",
+    "category": "Pedestrian Safety",
+    "category_label": "Pedestrian Safety & Walkway",
+    "location": "Canal Street Cobblestone Crossing",
+    "description": "Temporary paving work on North sidewalk. Pedestrian detour lane clearly demarcated with bright barriers.",
+    "severity": "Low",
+    "status": "Verified by Municipality",
+    "is_verified": true,
+    "timestamp": "Yesterday, 04:20 PM",
+    "upvotes": 18,
+    "source_type": "Public Works Dept",
+    "is_sample": true
+  },
+  {
+    "id": "rep-104",
+    "category": "Weather Alert",
+    "category_label": "Weather & Surface Conditions",
+    "location": "Sunset Bay Marina Wooden Boardwalk",
+    "description": "Morning mist caused slick timber surfaces near kayak dock. Non-slip mats laid down by harbor master.",
+    "severity": "Low",
+    "status": "Verified by Harbor Master",
+    "is_verified": true,
+    "timestamp": "Yesterday, 07:10 AM",
+    "upvotes": 12,
+    "source_type": "Harbor Authority",
+    "is_sample": true
+  },
+  {
+    "id": "rep-105",
+    "category": "Community Observation",
+    "category_label": "Citizen Awareness Note",
+    "location": "Bohemian Mill District North Entrance",
+    "description": "Crowded pop-up market stalls partially narrowing bike lane. Cyclists advised to dismount or slow down.",
+    "severity": "Informational",
+    "status": "Community Submitted (Pending City Review)",
+    "is_verified": false,
+    "timestamp": "2 hours ago",
+    "upvotes": 6,
+    "source_type": "Citizen Report",
+    "is_sample": true
+  }
+]
